@@ -47,11 +47,12 @@ Available features (use only what you need):
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-| Supported Chains | Infrastructure Tools |
-| ---------------- | -------------------- |
-| Ethereum, BNB, Polygon, Base, Arbitrum | Solidity, Hardhat, React, Firebase, Chainlink |
+| Supported Chains                         | Infrastructure Tools                                                                 |
+|-----------------------------------------|---------------------------------------------------------------------------------------|
+| Ethereum, BNB Chain, Polygon, Base, Arbitrum | Solidity, Hardhat, Node.js, Express.js, MongoDB, JWT Auth, Swagger (OpenAPI), Vite, Vue 3 |
+
 
 ---
 
