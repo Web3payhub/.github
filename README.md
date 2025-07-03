@@ -1,25 +1,66 @@
-# Web3PayHub
+---
+description: Web3 & AI Product Studio for Token Launches & Infrastructure
+---
 
-**Web3PayHub** is a turnkey platform that helps Web3 startups launch secure, compliant token sales across multiple chains with speed and confidence.
+# Blockchain Central
 
-## 🚀 What We Offer
-- Multi-chain presale launchpads
-- Investor dashboards and staking tools
-- KYC/AML integrations
-- Full admin control with client-owned source code
-- Lightning-fast deployment (go live in 7 days)
+![Hero Background](<.gitbook/assets/hero_bg main.png>)
 
-## 🌍 Who We Serve
-Web3 startups, GameFi projects, and DeFi teams who need a fast, secure, and investor-friendly presale infrastructure—without hiring a dev team.
+Web3 & AI Product Studio for Token Launches & Infrastructure
 
-## 🛡️ Why It Matters
-Smart contract security, speed to market, and regulatory readiness are make-or-break. Web3PayHub takes care of all of it.
+We specialize in token launch infrastructure and AI-driven product development, combining Web3 and AI to build scalable platforms, smart tools, and investor-ready products, delivered in record time.
 
-## 📬 Contact
-Want a private demo or consultation?  
-📧 Email us: `hello@blockchaincentral.ae`  
-🌐 Website: [web3payhub.io](https://web3payhub.io)
+* [View Live Demo](https://web3payhub.io/)
+* [View Admin Demo](https://admin.web3payhub.io/)
 
-> *This repository contains our public profile only. No source code is shared here.*
+### Proven Expertise in Blockchain Platforms
 
-[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
+**Proof of Concept (PoC)**
+
+Presale Platform Prototype
+
+A responsive Web3 landing page with wallet, staking, fiat on-Ramp and KYC — built to demonstrate a complete presale flow.
+
+[View Live ![](.gitbook/assets/arrow__right.svg)](https://web3payhub.io/)
+
+![](<.gitbook/assets/laptop_cf compressed.png>)
+
+![](<.gitbook/assets/mobile_cf compressed.png>)
+
+![](<.gitbook/assets/laptop_admin compressed.png>)
+
+Admin Panel Prototype
+
+Smart control meets clean design — track, manage, and scale your presale effortlessly. [View Live ![](.gitbook/assets/arrow__right.svg)](https://admin.web3payhub.io/)
+
+![](<.gitbook/assets/mobile_admin compressed.png>)
+
+We turn ideas into working products. These prototypes — a token presale platform and an admin dashboard — prove our capability to deliver real, scalable Web3 solutions tailored to your business needs.
+
+### Why Work with Blockchain Central?
+
+We specialize in both 0–1 (product creation) and 1–10 (scaling and growth) journeys—bringing your idea to life, then optimizing it for success.
+
+![](<.gitbook/assets/bc icon.svg>)
+
+24/7 GLOBAL CONSULTANCY
+
+Our team of Web3 developers and consultants is available to collaborate with you across any timezone.
+
+![](<.gitbook/assets/code folder.svg>) ![](.gitbook/assets/cloud.svg)
+
+IT DEVELOPMENT & CONSULTANCY
+
+From product development to crypto compliance, we advance your blockchain capabilities in local markets.
+
+![](.gitbook/assets/solar.svg)
+
+TEAM TRAINING
+
+Skip the hassle of in-house training and let our senior professionals help extend your team's capabilities.
+
+Get Consultation
+
+### Testimonials
+
+We build it, you own it. From wallets to exchanges, our team can bring your vision to life.
