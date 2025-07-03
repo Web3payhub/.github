@@ -17,9 +17,9 @@ We specialize in token launch infrastructure and AI-driven product development, 
 
 **Proof of Concept (PoC)**
 
-Presale Platform Prototype
+Presale Platform Demo
 
-A responsive Web3 landing page with wallet, staking, fiat on-Ramp and KYC — built to demonstrate a complete presale flow.
+A responsive Web3 landing page with wallet, staking, fiat on-Ramp and KYC — built to demonstrate a complete presale flow with our ready-to-deploy toolkit.
 
 [View Live ![](.gitbook/assets/arrow__right.svg)](https://web3payhub.io/)
 
